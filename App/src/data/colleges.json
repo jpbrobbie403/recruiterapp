@@ -1,0 +1,18 @@
+[
+  {
+    "id": "du1",
+    "name": "University of Denver",
+    "city": "Denver",
+    "state": "CO",
+    "division": "D1",
+    "website": "https://www.du.edu/"
+  },
+  {
+    "id": "cu1",
+    "name": "University of Colorado Boulder",
+    "city": "Boulder",
+    "state": "CO",
+    "division": "D1",
+    "website": "https://www.colorado.edu/"
+  }
+]
